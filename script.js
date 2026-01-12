@@ -1,6 +1,8 @@
 // Project links configuration
 const projectLinks = {
-    'betswave': ',https://www.betswave.io',
+    'betswave': 'https://www.betswave.io',
+    'trakor': '#', // Replace with actual link
+    'gtd-healup-life': 'https://gtd-healup-life.onrender.com/',
     'railway-dropgate': 'https://kgtsolutions-my.sharepoint.com/:p:/g/personal/sanyam_gaba_kgt_solutions/EXT58S9opB1DviRqDrrpq8IBEycGtlWNbExkjT3AtTzqug?e=OY72Fx', // Replace with actual link
     'wagon-detection': '#', // Replace with actual link
     'iron-ore-monitoring': 'https://kgtsolutions-my.sharepoint.com/:p:/g/personal/sanyam_gaba_kgt_solutions/EUc8EZTGKERNtDT-PhjP2JsBOa1xxKkNtaE9BgiGaysRHQ?e=EQemKJ', // Replace with actual link
@@ -8,7 +10,7 @@ const projectLinks = {
     'ai-trading-bot': 'https://kgtsolutions-my.sharepoint.com/:b:/g/personal/sanyam_gaba_kgt_solutions/ETyz112QedJEnmZoFjwozO8Bi7PUbk6OQIBPm68n-AdkyA?e=nXoftJ', // Replace with actual link
     'fithire': 'https://kgtsolutions-my.sharepoint.com/:v:/g/personal/sanyam_gaba_kgt_solutions/EWX6ePXcBB1IrS2l-VqjrQ8B1J1bpDXAIDz2OQjbcZvzqw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wjkEsh`', // Replace with actual link
     'nerds-website': 'https://nerdsllc.io/projects/', // Replace with actual link
-    'ai-ad-detection': 'https://kgtsolutions-my.sharepoint.com/:b:/g/personal/sanyam_gaba_kgt_solutions/ET-3TqkoYHlOiMNzn7x6V8kBWxblAirBOUEmVrCBS1d5Xg?e=SIZlvk' // Replace with actual link
+    'ai-ad-detection': 'https://kgtsolutions-my.sharepoint.com/:v:/g/personal/sanyam_gaba_kgt_solutions/IQBqltJnmTFcSbvfMEraAfmiAf3q-5oUxT204dRwJTVOLwI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4gjuE5'
 };
 
 // Add click functionality to project cards
